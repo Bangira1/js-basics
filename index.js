@@ -1,6 +1,4 @@
-let person = {
-    name :'bangii',
-    age: 23
 
-};
-console.log(person);
+let slectedColours = ['red','blue'];
+    selectedColours[2] = 'green';
+    console.log(selectedColours);
